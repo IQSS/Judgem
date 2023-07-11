@@ -1,0 +1,12 @@
+Package: Judgem
+Version: 1.0-1
+Date: 2006-09-22
+Title: Judgem
+Author: Gary King <king@harvard.edu>,
+        Andrew C. Thomas <acthomas@fas.harvard.edu>
+Maintainer: Andrew C. Thomas <acthomas@fas.harvard.edu>
+Depends: R (>= 2.2.1),mvtnorm
+Description: Investigates two-party elections based on the behaviour of their districts.
+License: GPL version 2 or newer
+URL: http://gking.harvard.edu/
+Packaged: Fri Sep 22 15:00:21 2006; king

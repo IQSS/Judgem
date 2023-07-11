@@ -1,0 +1,4 @@
+export(judgem)
+S3method(summary, judgem)   
+S3method(print, judgem)   
+S3method(plot,judgem)
